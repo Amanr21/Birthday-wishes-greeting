@@ -5,6 +5,9 @@ export const metadata = {
   description: "An animated birthday surprise filled with emotions, words from the heart, and a letter that types itself — just for you."
 };
 
+// New
+
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
